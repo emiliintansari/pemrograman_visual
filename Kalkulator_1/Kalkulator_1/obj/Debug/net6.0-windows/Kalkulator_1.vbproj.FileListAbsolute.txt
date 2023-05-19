@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\bin\Debug\net6.0-windows\Kalkulator_1.exe
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\bin\Debug\net6.0-windows\Kalkulator_1.deps.json
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\bin\Debug\net6.0-windows\Kalkulator_1.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\bin\Debug\net6.0-windows\Kalkulator_1.dll
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\bin\Debug\net6.0-windows\Kalkulator_1.pdb
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.vbproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.Form1.resources
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.vbproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.AssemblyInfo.vb
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.dll
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\refint\Kalkulator_1.dll
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.pdb
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\Kalkulator_1.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\Kalkulator_1\Kalkulator_1\obj\Debug\net6.0-windows\ref\Kalkulator_1.dll
