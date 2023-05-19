@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\bin\Debug\net6.0-windows\penghitung_umur.exe
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\bin\Debug\net6.0-windows\penghitung_umur.deps.json
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\bin\Debug\net6.0-windows\penghitung_umur.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\bin\Debug\net6.0-windows\penghitung_umur.dll
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\bin\Debug\net6.0-windows\penghitung_umur.pdb
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.vbproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.Form1.resources
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.vbproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.AssemblyInfo.vb
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.dll
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\refint\penghitung_umur.dll
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.pdb
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\penghitung_umur.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documents\VS_22\penghitung_umur\penghitung_umur\obj\Debug\net6.0-windows\ref\penghitung_umur.dll
